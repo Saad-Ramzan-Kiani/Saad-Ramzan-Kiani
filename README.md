@@ -1,8 +1,6 @@
                                                         Hello Fellows!!! Saad Kiani Here 👋 
 
 <html><hr></html>
-[Visitors](https://komarev.com/ghpvc/?username=Saad-Ramzan-Kiani&label=Visitors&color=green&style=flat-square)
-
 
 - 🔭 I’m currently working on Python (Django, Flask, and fastApi)
 - 🌱 I’m currently learning Docker
