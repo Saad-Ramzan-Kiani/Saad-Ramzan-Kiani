@@ -1,12 +1,6 @@
                                                         Hello Fellows!!! Saad Kiani Here 👋 
 
-<html>hr {
-            border: none;
-            height: 2px;
-            background-color: #333;
-            width: 50%;
-            margin: 20px auto;
-        } </html>
+<html><hr></html>
 
 - 🔭 I’m currently working on Python (Django, Flask, and fastApi)
 - 🌱 I’m currently learning Docker
