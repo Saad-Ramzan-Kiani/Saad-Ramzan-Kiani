@@ -23,7 +23,7 @@
   </div>
 
 <div align="center">
-  <img src="https://giphy.com/embed/bAQH7WXKqtIBrPs7sR" width="480" height="269" style="" frameBorder="0" class="giphy-embed" allowFullScreen><p><a href="https://giphy.com/gifs/scaler-official-sleep-code-coding-bAQH7WXKqtIBrPs7sR"></a></p>
+  <img src="https://giphy.com/embed/bAQH7WXKqtIBrPs7sR" width="480" height="269" style="" frameBorder="0" class="giphy-embed" allowFullScreen>
 </div>
 
 <!--
