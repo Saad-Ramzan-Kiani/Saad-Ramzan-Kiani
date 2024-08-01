@@ -62,7 +62,12 @@
 
 
   </div>
+
+
 <html><hr></html>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Saad-Ramzan-Kiani&show_icons=true&locale=en&layout=compact" alt="Saad Kiani" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Saad-Ramzan-Kiani&show_icons=true&locale=en" alt="Saad Kiani" /></p>
 
  <div align="center">
 <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
