@@ -24,8 +24,8 @@
 
 
     
-- 🔭 I’m currently working on Python (Django, Flask, and fastApi)
-- 🌱 I’m currently learning Laravel  
+- 🔭 I’m currently working as Web Developer (Laravel)
+- 🌱 I’m currently learning Python (Data Science)  
 - 📫 How to reach me: kianisaad5@gmail.com
 <p>
   <img src="https://komarev.com/ghpvc/?username=Saad-Ramzan-Kiani&label=Profile%20views&color=0e75b6&style=flat" alt="Saad Kiani" />
