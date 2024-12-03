@@ -32,6 +32,9 @@
 </p>
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
+ <a href="https://openai.com/" target="_blank" rel="noreferrer">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/4/47/OpenAI_Logo_2023.svg" alt="OpenAI" width="40" height="40"/>
+</a>
   <a href="https://laravel.com/" target="_blank" rel="noreferrer">
     <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Laravel.svg" alt="laravel" width="40" height="40"/>
 </a>
