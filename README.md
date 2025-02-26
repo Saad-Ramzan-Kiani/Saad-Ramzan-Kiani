@@ -12,7 +12,7 @@
   <img align="right" alt="coding" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="210"/>
 <div id="header" align="left">
   <div id="badges">
-    <a href="https://www.upwork.com/freelancers/~01556de591c89fbfd9">
+    <a href="https://www.linkedin.com/in/ai-engineer-php-laravel-developer/">
     <img src="https://img.shields.io/badge/Upwork-success?style=for-the-badge&logo=upwork&logoColor=white" alt="Upwork Badge"/>
 </a>
  <a href="https://www.linkedin.com/in/videoediting-whiteboardanimation/">
