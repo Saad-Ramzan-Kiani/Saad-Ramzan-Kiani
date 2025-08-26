@@ -12,10 +12,16 @@
   <img align="right" alt="coding" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="210"/>
 <div id="header" align="left">
   <div id="badges">
-    <a href="https://www.linkedin.com/in/ai-engineer-php-laravel-developer/">
+<!--     <a href="https://www.linkedin.com/in/ai-engineer-php-laravel-developer/">
     <img src="https://img.shields.io/badge/Upwork-success?style=for-the-badge&logo=upwork&logoColor=white" alt="Upwork Badge"/>
+</a> -->
+    <a href="https://www.fiverr.com/users/saadkiani_15/manage_gigs">
+  <img src="https://img.shields.io/badge/Fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white" alt="Fiverr Badge"/>
 </a>
- <a href="https://www.linkedin.com/in/videoediting-whiteboardanimation/">
+    <a href="https://x.com/kiani_saad">
+  <img src="https://img.shields.io/badge/X%20(Twitter)-black?style=for-the-badge&logo=twitter&logoColor=white" alt="X (Twitter) Badge"/>
+</a>
+ <a href="https://www.linkedin.com/in/ai-engineer-php-laravel-developer/">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
 <a href="https://www.youtube.com/@saadkiani1389">
