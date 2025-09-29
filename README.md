@@ -30,8 +30,8 @@
 
 
     
-- 🔭 I’m currently working as Web Developer (Laravel)
-- 🌱 I’m currently learning Python (Data Science)  
+- 🔭 I’m currently working as a Web Developer (Laravel)
+- 🌱 I’m currently learning Data Science  
 - 📫 How to reach me: kianisaad5@gmail.com
 <p>
   <img src="https://komarev.com/ghpvc/?username=Saad-Ramzan-Kiani&label=Profile%20views&color=0e75b6&style=flat" alt="Saad Kiani" />
@@ -41,12 +41,13 @@
 <!--  <a href="https://openai.com/" target="_blank" rel="noreferrer">
     <img src="https://upload.wikimedia.org/wikipedia/commons/4/47/OpenAI_Logo_2023.svg" alt="OpenAI" width="40" height="40"/>
 </a> -->
+    <a href="https://laravel.com/" target="_blank" rel="noreferrer">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Laravel.svg" alt="laravel" width="40" height="40"/>
+</a>
    <a href="https://www.python.org" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
   </a>
-  <a href="https://laravel.com/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Laravel.svg" alt="laravel" width="40" height="40"/>
-</a>
+
   <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
   </a>
